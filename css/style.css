@@ -82,7 +82,7 @@ body {
 
 /* This contains your like and dislike buttons */	
 .social {	
-    text-align: right;	
+    text-align: relative;	
     -webkit-user-select: none;	
     -moz-user-select: none;	
     -ms-user-select: none;	
